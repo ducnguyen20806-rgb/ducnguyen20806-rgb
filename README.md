@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW12Y3J3cWlsZnpudWFxcGZ1eXAzMWwzdjl3dTNxdm9ubTZ2dzVsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d31vTpVi1LAcDvdm/giphy.gif" width="100%" alt="Cyberpunk City Pixel Art" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlxZTV0NnlubTFudjQxbDR6NWd3NDR6Ymp4dWRsazkyMm55NTVnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4vS/giphy.gif" width="100%" alt="Developer Night Lofi Pixel Art" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nguyễn Đức Nguyên</h1>
