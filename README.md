@@ -39,27 +39,25 @@
 
 <br/>
 
-<!-- ================= QUANT CYBER HUD / COLORFUL PROFILE ================= -->
+<!-- ================= PROFILE DETAILS ================= -->
 <div align="center">
-
-## 🛸 `SYSTEM_CORE :: NEON_HUD_INTERFACE`
 
 <table width="100%">
 <tr>
 <td>
 
-### 💠 [01] HỒ SƠ ĐỊNH DANH (IDENTITY MODULE)
+### 💠 About me
 > <img src="https://img.shields.io/badge/STATUS-ONLINE%20%E2%97%8F-00FFA3?style=for-the-badge&labelColor=000000" />
 > <img src="https://img.shields.io/badge/CLEARANCE-LEVEL__5-FF007F?style=for-the-badge&labelColor=000000" />
 > <img src="https://img.shields.io/badge/CLASS-FINTECH__ARCHITECT-00F2FE?style=for-the-badge&labelColor=000000" />
 
-- 👤 <img src="https://img.shields.io/badge/H%E1%BB%8D%20v%C3%A0%20T%C3%AAn-Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Nguy%C3%AAn-00F2FE?style=flat-square&labelColor=0D1117"/> `(DucNguyen.FT)`
+- 👤 <img src="https://img.shields.io/badge/H%E1%BB%8D%20v%C3%A0%20T%C3%AAn-Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Nguy%C3%AAn-00F2FE?style=flat-square&labelColor=0D1117"/>
 - 🎓 <img src="https://img.shields.io/badge/Chuy%C3%AAn%20ng%C3%A0nh-C%C3%B4ng%20ngh%E1%BB%87%20T%C3%A0i%20ch%C3%ADnh%20(FinTech)-FF007F?style=flat-square&labelColor=0D1117"/>
 - 🌐 <img src="https://img.shields.io/badge/Github%20ID-@ducnguyen20806--rgb-7928CA?style=flat-square&labelColor=0D1117"/>
 
 ---
 
-### 💹 [02] LĨNH VỰC TRỌNG TÂM (CORE PILLARS)
+### 💹 Lĩnh vực và kinh nghiệm
 
 #### 🔹 1. TÀI CHÍNH & ĐỊNH LƯỢNG (FINANCIAL QUANT)
 <p align="left">
@@ -87,7 +85,7 @@
 
 ---
 
-### 🚀 [03] TRẠNG THÁI VẬN HÀNH (LIVE STATUS)
+### 🚀 TRẠNG THÁI VẬN HÀNH (LIVE STATUS)
 ```diff
 + [ACTIVE MISSION]: Nghiên cứu & phát triển các giải pháp FinTech thế hệ mới
 + [RESEARCH]: Thuật toán Định lượng (Quant) & Phân tích Chuỗi thời gian Tài chính
