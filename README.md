@@ -1,6 +1,6 @@
-<!-- ================= HEADER BANNER ================= -->
+<!-- ================= HEADER HERO BANNER ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=17,20,24,28&height=230&section=header&text=NGUYEN%20DUC%20NGUYEN&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=FINTECH%20DEVELOPER%20%7C%20DATA-DRIVEN%20SOLUTIONS&descSize=15&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=220&section=header&text=NGUYEN%20DUC%20NGUYEN&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FINANCIAL%20TECHNOLOGY%20%7C%20DATA-DRIVEN%20INSIGHTS&descSize=14&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
 <br/>
@@ -53,7 +53,7 @@
 
 ---
 
-<!-- ================= STATS DASHBOARD (CHUẨN 4 KHỐI THEO ẢNH) ================= -->
+<!-- ================= STATS DASHBOARD (4 KHỐI) ================= -->
 ### Stats 📊
 
 <table border="0" width="100%">
@@ -89,5 +89,5 @@
 
 <!-- ================= FOOTER ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,20,24,28&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=90&section=footer" width="100%" />
 </div>
