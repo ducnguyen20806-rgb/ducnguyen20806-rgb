@@ -1,24 +1,50 @@
-<!-- HEADER BANNER CYBERPUNK LED -->
 <p align="center">
-  <a href="https://github.com/ducnguyen20806-rgb">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:161b22,100:0d1117&height=220&section=header&text=Nguy%E1%BB%85n%20%C4%90%E1%BB%A3c%20Nguy%C3%AAn&fontSize=46&fontColor=00F2FE&fontAlignY=40&desc=Financial%20Technology%20%7C%20AI%20%26%20Quantitative%20Analytics&descSize=18&descAlignY=65&descColor=8B949E&stroke=00F2FE&strokeWidth=1" width="100%" alt="Header Banner" />
-  </a>
+  <img src="https://i.pinimg.com/originals/a0/88/4e/a0884e6226189ef94d6be533f81e3a2b.gif" width="100%" alt="Header Pixel Art" />
 </p>
 
-<!-- DYNAMIC LED TYPING -->
-<p align="center">
-  <a href="https://github.com/ducnguyen20806-rgb">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=50&lines=Hi+Alien!+%F0%9F%90%BD+Welcome+to+my+FinTech+Space;I'm+building+AI-driven+financial+models;Market+Data+Analytics+%26+Automation" alt="Typing LED Text" />
-  </a>
+<h1 align="center">Hi 👋, I'm Nguyễn Đức Nguyên</h1>
+
+## 💫 About Me:
+
+- 🔭 I'm currently working on **AI Credit Scoring & Financial Analytics Platform**.
+- 🌱 I'm currently learning **Financial Technology, Quantitative Modeling, and Smart Contracts**.
+- 💬 Ask me about **Python, Pandas, Web Scraping (Selenium), and Financial Statement Analysis**.
+- ⚡ Fun fact **I love building smart algorithms to automate financial decision-making!**
+
+## 🌐 Socials:
+
+<p align="left">
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ducnguyen20806-rgb"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
+## 💻 Tech Stack:
 
-### 👨‍💻 About Me
+<p align="left">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
-```yaml
-Name: Nguyễn Đức Nguyên
-Major: Financial Technology (FinTech)
-Focus: AI Financial Modeling, Stock Market Analytics, Cash Flow Systems
-Passions: Quantitative Trading, Corporate Valuation, Smart Contracts
-Status: Building smart financial solutions
+## 📊 GitHub Stats:
+
+<p align="left">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ducnguyen20806-rgb&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ducnguyen20806-rgb&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducnguyen20806-rgb&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
