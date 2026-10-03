@@ -17,7 +17,7 @@
     </samp>
   </p>
 
-  <!-- CONNECT & SOCIALS -->
+  <!-- SOCIAL BADGES -->
   <p align="center">
     <a href="https://www.facebook.com/share/1Eg7EMt4bD/" target="_blank">
       <img src="https://img.shields.io/badge/FACEBOOK-0D1117?style=for-the-badge&logo=facebook&logoColor=00F2FE&borderColor=00F2FE" alt="Facebook" />
@@ -32,7 +32,7 @@
     </a>
     &nbsp;
     <a href="https://github.com/ducnguyen20806-rgb">
-      <img src="https://img.shields.io/badge/FINTECH_CORE-ONLINE-00F2FE?style=for-the-badge&logoColor=000000" alt="Core Status" />
+      <img src="https://img.shields.io/badge/CORE_SYSTEM-ACTIVE-00F2FE?style=for-the-badge&logoColor=000000" alt="Core Status" />
     </a>
   </p>
 </div>
@@ -47,12 +47,17 @@
 ### 🌐 SYSTEM PROFILE: `ABOUT_ME.SYS`
 
 ```bash
-[SYSTEM INITIALIZATION] ................................ [OK]
-┌── [USER_SESSION]
-│   ├─ IDENTITY    : Nguyễn Đức Nguyên (DucNguyen.FT)
-│   ├─ GITHUB_ID   : ducnguyen20806-rgb
-│   ├─ DOMAIN      : Financial Technology (FinTech / Công nghệ tài chính)
-│   ├─ CONTACT     : ducnguyen20806@gmail.com
-│   ├─ FOCUS_AREAS : Quantitative Finance | Market Analytics | Algorithmic Systems
-│   └─ STATUS      : Researching, Backtesting & Architecting Next-Gen Solutions
-└── [CORE DIRECTIVE] : "Biến dữ liệu thị trường phức tạp thành chiến lược chính xác."
+[KHỞI TẠO HỆ THỐNG] ....................................... [HOẠT ĐỘNG]
+
+├── [THÔNG TIN HỒ SƠ]
+│   ├── HỌ VÀ TÊN    : Nguyễn Đức Nguyên (DucNguyen.FT)
+│   ├── CHUYÊN NGÀNH : Công nghệ Tài chính (FinTech)
+│   └── GITHUB_ID    : @ducnguyen20806-rgb
+│
+├── [LĨNH VỰC TẬP TRUNG]
+│   ├── TÀI CHÍNH    : Tài chính Định lượng | Quản trị Rủi ro | Phân tích Thị trường | Quản lý Dòng tiền
+│   ├── CÔNG NGHỆ    : Phát triển Web/App | Tự động hóa Dữ liệu | Khai phá Dữ liệu
+│   └── CÔNG CỤ      : Python | Pandas | Streamlit | FastAPI | Git
+│
+└── [TRẠNG THÁI]
+    └── DỰ ÁN        : Đang nghiên cứu & phát triển các giải pháp FinTech thế hệ mới
