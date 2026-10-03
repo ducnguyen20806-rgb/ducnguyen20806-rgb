@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlxZTV0NnlubTFudjQxbDR6NWd3NDR6Ymp4dWRsazkyMm55NTVnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4vS/giphy.gif" width="100%" alt="Developer Night Lofi Pixel Art" />
+  <img src="./robot-header.jpg" width="100%" alt="AI Robot Tech Header" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nguyễn Đức Nguyên</h1>
