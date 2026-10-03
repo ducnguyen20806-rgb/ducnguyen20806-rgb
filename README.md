@@ -6,7 +6,7 @@
 <!-- ================= TYPING DYNAMIC GREETING ================= -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=620&lines=%E2%8B%84+Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+Nguy%E1%BB%85n+%C4%90%E1%BB%A9c+Nguy%C3%AAn;%E2%8B%84+Chuy%C3%AAn+ng%C3%A0nh%3A+C%C3%B4ng+ngh%E1%BB%87+T%C3%A0i+ch%C3%ADnh+(FinTech);%E2%8B%84+Building+Data-Driven+%26+Algorithmic+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=1000&color=0969DA&center=true&vCenter=true&width=620&lines=%E2%8B%84+Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+Nguy%E1%BB%85n+%C4%90%E1%BB%A9c+Nguy%C3%AAn;%E2%8B%84+Chuy%C3%AAn+ng%C3%A0nh%3A+C%C3%B4ng+ngh%E1%BB%87+T%C3%A0i+ch%C3%ADnh+(FinTech);%E2%8B%84+Building+Data-Driven+%26+Algorithmic+Solutions" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -20,19 +20,19 @@
   <!-- SOCIAL BADGES -->
   <p align="center">
     <a href="https://www.facebook.com/share/1Eg7EMt4bD/" target="_blank">
-      <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
     &nbsp;
     <a href="mailto:ducnguyen20806@gmail.com">
-      <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
     <a href="https://github.com/ducnguyen20806-rgb" target="_blank">
-      <img src="https://img.shields.io/badge/GITHUB-24292E?style=for-the-badge&logo=github&logoColor=00F2FE" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     &nbsp;
     <a href="https://github.com/ducnguyen20806-rgb">
-      <img src="https://img.shields.io/badge/CORE_SYSTEM-ACTIVE-00FFA3?style=for-the-badge&logoColor=000000" alt="Core Status" />
+      <img src="https://img.shields.io/badge/Core_System-Active-059669?style=for-the-badge&logoColor=white" alt="Core Status" />
     </a>
   </p>
 </div>
@@ -40,20 +40,21 @@
 <br/>
 
 <!-- ================= PROFILE DETAILS ================= -->
-<div align="center">
-
 <table width="100%">
 <tr>
 <td>
 
 ### 💠 About me
-> <img src="https://img.shields.io/badge/STATUS-ONLINE%20%E2%97%8F-00FFA3?style=for-the-badge&labelColor=000000" />
-> <img src="https://img.shields.io/badge/CLEARANCE-LEVEL__5-FF007F?style=for-the-badge&labelColor=000000" />
-> <img src="https://img.shields.io/badge/CLASS-FINTECH__ARCHITECT-00F2FE?style=for-the-badge&labelColor=000000" />
 
-- 👤 <img src="https://img.shields.io/badge/H%E1%BB%8D%20v%C3%A0%20T%C3%AAn-Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Nguy%C3%AAn-00F2FE?style=flat-square&labelColor=0D1117"/>
-- 🎓 <img src="https://img.shields.io/badge/Chuy%C3%AAn%20ng%C3%A0nh-C%C3%B4ng%20ngh%E1%BB%87%20T%C3%A0i%20ch%C3%ADnh%20(FinTech)-FF007F?style=flat-square&labelColor=0D1117"/>
-- 🌐 <img src="https://img.shields.io/badge/Github%20ID-@ducnguyen20806--rgb-7928CA?style=flat-square&labelColor=0D1117"/>
+> <img src="https://img.shields.io/badge/Status-Online-059669?style=flat-square&logo=statuspage&logoColor=white" />
+> <img src="https://img.shields.io/badge/Role-FinTech_Developer-0969DA?style=flat-square&logo=codeforces&logoColor=white" />
+> <img src="https://img.shields.io/badge/Location-Vietnam-D97706?style=flat-square&logo=googlemaps&logoColor=white" />
+
+<br/>
+
+- 👤 &nbsp; **Họ và Tên:** &nbsp; <img src="https://img.shields.io/badge/Nguyễn_Đức_Nguyên-0969DA?style=flat-square&logo=user&logoColor=white" alt="Name" />
+- 🎓 &nbsp; **Chuyên ngành:** &nbsp; <img src="https://img.shields.io/badge/Công_nghệ_Tài_chính_(FinTech)-7C3AED?style=flat-square&logo=buffer&logoColor=white" alt="Major" />
+- 🌐 &nbsp; **GitHub ID:** &nbsp; <a href="https://github.com/ducnguyen20806-rgb"><img src="https://img.shields.io/badge/@ducnguyen20806--rgb-24292E?style=flat-square&logo=github&logoColor=white" alt="GitHub ID" /></a>
 
 ---
 
@@ -61,22 +62,22 @@
 
 #### 🔹 1. TÀI CHÍNH & ĐỊNH LƯỢNG (FINANCIAL QUANT)
 <p align="left">
-  <img src="https://img.shields.io/badge/%F0%9F%93%88%20T%C3%A0i%20ch%C3%ADnh%20%C4%90%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng-00FFA3?style=for-the-badge&logoColor=black&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20Qu%E1%BA%A3n%20tr%E1%BB%8B%20R%E1%BB%A7i%20ro-FFB800?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/%F0%9F%94%8D%20Ph%C3%A2n%20t%C3%ADch%20Th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng-00F2FE?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/%F0%9F%92%B5%20Qu%E1%BA%A3n%20l%C3%BD%20D%C3%B2ng%20ti%E1%BB%81n-A855F7?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/📈_Tài_chính_Định_lượng-059669?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🛡️_Quản_trị_Rủi_ro-D97706?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/📊_Phân_tích_Thị_trường-0969DA?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/💰_Quản_lý_Dòng_tiền-7C3AED?style=for-the-badge&logoColor=white" />
 </p>
 
 #### 🔹 2. CÔNG NGHỆ & DỮ LIỆU (TECH & DATA ENGINEERING)
 <p align="left">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Ph%C3%A1t%20tri%E1%BB%83n%20Web%2FApp-FF007F?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20T%E1%BB%B1%20%C4%91%E1%BB%99ng%20h%C3%B3a%20D%E1%BB%AF%20li%E1%BB%87u-38BDF8?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/%E2%9B%8F%EF%B8%8F%20Khai%20ph%C3%A1%20D%E1%BB%AF%20li%E1%BB%87u%20(Data%20Mining)-10B981?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🌐_Phát_triển_Web/App-DC2626?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚙️_Tự_động_hóa_Dữ_liệu-0284C7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/⛏️_Khai_phá_Dữ_liệu-0D9488?style=for-the-badge&logoColor=white" />
 </p>
 
 #### 🔹 3. CÔNG CỤ VŨ KHÍ (WEAPONS OF CHOICE)
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE873" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
