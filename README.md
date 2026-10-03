@@ -6,10 +6,9 @@
 
 ## 💫 About Me:
 
-- 🔭 I'm currently working on **AI Credit Scoring & Financial Analytics Platform**.
-- 🌱 I'm currently learning **Financial Technology, Quantitative Modeling, and Smart Contracts**.
+- 🎓 **Chuyên ngành Công nghệ Tài chính (FinTech)**
 - 💬 Ask me about **Python, Pandas, Web Scraping (Selenium), and Financial Statement Analysis**.
-- ⚡ Fun fact **I love building smart algorithms to automate financial decision-making!**
+- ⚡ Fun fact **I love building Web/App & smart algorithms to automate financial decision-making!**
 
 ## 🌐 Socials:
 
