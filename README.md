@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=220&section=header&text=NGUYEN%20DUC%20NGUYEN&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FINANCIAL%20TECHNOLOGY%20ENGINEER%20%7C%20ALGORITHMIC%20SYSTEMS&descSize=14&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 
-  <!-- DÒNG LỆNH GÕ CHỮ LED TỰ ĐỘNG CHUẨN ZSH -->
+  <!-- DÒNG LỆNH GÕ CHỮ LED TỰ ĐỘNG CHUẨN ZSH (MÀU TỐI DỄ NHÌN) -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=0969DA&center=true&vCenter=true&width=650&lines=%24+whoami+--role+%22FinTech+Developer%22;%24+python3+-m+quant.engine+--market-analysis;%24+systemctl+status+career.service+--state%3Dactive;%24+echo+%22Transforming+financial+data+into+pure+alpha...%22" alt="Typing SVG" />
   </a>
@@ -48,6 +48,7 @@
     </td>
   </tr>
   <tr>
+    <!-- CỘT TRÁI: DỮ LIỆU TÀI CHÍNH & CÔNG NGHỆ -->
     <td width="65%" valign="top" style="padding: 16px; background: #0d1117;">
 
 ```yaml
