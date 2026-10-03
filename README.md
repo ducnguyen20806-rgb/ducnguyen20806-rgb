@@ -3,6 +3,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=220&section=header&text=NGUYEN%20DUC%20NGUYEN&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FINANCIAL%20TECHNOLOGY%20%7C%20DATA-DRIVEN%20INSIGHTS&descSize=14&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
+<!-- ================= TYPING DYNAMIC GREETING (DÒNG CHỮ LED CHẠY) ================= -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=620&lines=%E2%8B%84+Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+Nguy%E1%BB%85n+%C4%90%E1%BB%A9c+Nguy%C3%AAn;%E2%8B%84+Chuy%C3%AAn+ng%C3%A0nh%3A+C%C3%B4ng+ngh%E1%BB%87+T%C3%A0i+ch%C3%ADnh+(FinTech);%E2%8B%84+Building+Data-Driven+%26+Algorithmic+Solutions" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <samp>
+      ⚡ <b>ARCHITECTING THE FUTURE OF FINANCE THROUGH CODE & ALGORITHMS</b> ⚡
+    </samp>
+  </p>
+</div>
+
 <br/>
 
 <!-- ================= CONNECT WITH ME ================= -->
