@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a0/88/4e/a0884e6226189ef94d6be533f81e3a2b.gif" width="100%" alt="Header Pixel Art" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW12Y3J3cWlsZnpudWFxcGZ1eXAzMWwzdjl3dTNxdm9ubTZ2dzVsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d31vTpVi1LAcDvdm/giphy.gif" width="100%" alt="Cyberpunk City Pixel Art" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nguyễn Đức Nguyên</h1>
