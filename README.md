@@ -1,7 +1,7 @@
-<!-- HEADER BANNER GALAXY / SPACE -->
+<!-- HEADER BANNER LED RUNNING / TYPING TEXT -->
 <p align="center">
   <a href="https://github.com/ducnguyen20806-rgb">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050814,50:0B1021,100:161B33&height=260&section=header&text=Hi%20Alien!%20%F0%9F%90%BD&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=I'm%20Nguy%E1%BB%85n%20%C4%90%E1%BB%A3c%20Nguy%C3%AAn%20from%20the%20Earth.&descSize=22&descAlignY=58&descColor=E6EDF3&animation=twinkling" width="100%" alt="Header Space Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&height=100&lines=Hi+Alien!+%F0%9F%90%BD;I'm+Nguy%E1%BB%85n+%C4%90%E1%BB%A3c+Nguy%C3%AAn+from+the+Earth.;Financial+Technology+(FinTech)+Student" alt="Typing LED Header" />
   </a>
 </p>
 
