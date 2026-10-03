@@ -1,12 +1,10 @@
-<!-- ================= HEADER HERO BANNER ================= -->
+<!-- ================= 01. HEADER BANNER ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=220&section=header&text=NGUYEN%20DUC%20NGUYEN&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FINANCIAL%20TECHNOLOGY%20%7C%20DATA-DRIVEN%20INSIGHTS&descSize=14&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=220&section=header&text=NGUYEN%20DUC%20NGUYEN&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FINANCIAL%20TECHNOLOGY%20ENGINEER%20%7C%20ALGORITHMIC%20SYSTEMS&descSize=14&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 
-<!-- ================= TYPING DYNAMIC GREETING ================= -->
-<div align="center">
+  <!-- DÒNG LỆNH GÕ CHỮ LED TỰ ĐỘNG CHUẨN ZSH -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=1000&color=0969DA&center=true&vCenter=true&width=620&lines=%E2%8B%84+Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+Nguy%E1%BB%85n+%C4%90%E1%BB%A9c+Nguy%C3%AAn;%E2%8B%84+Chuy%C3%AAn+ng%C3%A0nh%3A+C%C3%B4ng+ngh%E1%BB%87+T%C3%A0i+ch%C3%ADnh+(FinTech);%E2%8B%84+Building+Data-Driven+%26+Algorithmic+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=0969DA&center=true&vCenter=true&width=650&lines=%24+whoami+--role+%22FinTech+Developer%22;%24+python3+-m+quant.engine+--market-analysis;%24+systemctl+status+career.service+--state%3Dactive;%24+echo+%22Transforming+financial+data+into+pure+alpha...%22" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -14,35 +12,31 @@
       ⚡ <b>ARCHITECTING THE FUTURE OF FINANCE THROUGH CODE & ALGORITHMS</b> ⚡
     </samp>
   </p>
+
+  <!-- PROTOCOL LINKS / MẠNG XÃ HỘI -->
+  <p align="center">
+    <a href="https://www.facebook.com/share/1Eg7EMt4bD/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+    &nbsp;
+    <a href="mailto:ducnguyen20806@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/ducnguyen20806-rgb" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/ducnguyen20806-rgb">
+      <img src="https://img.shields.io/badge/Core_System-Active%2024%2F7-059669?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+    </a>
+  </p>
 </div>
 
 <br/>
 
-<!-- ================= CONNECT WITH ME ================= -->
-### Connect with me. 🤝
-
-<p align="left">
-  <a href="https://www.facebook.com/share/1Eg7EMt4bD/" target="_blank">
-    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  &nbsp;
-  <a href="mailto:ducnguyen20806@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ducnguyen20806-rgb" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ducnguyen20806-rgb">
-    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-059669?style=for-the-badge&logoColor=white" alt="Status" />
-  </a>
-</p>
-
----
-
-<!-- ================= ABOUT ME (CYBER TERMINAL HUD) ================= -->
-### About Me. 👨‍💻
+<!-- ================= 02. SYSTEM TERMINAL (ABOUT ME) ================= -->
+### 💻 `cat /etc/developer/specs.yaml`
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
@@ -50,31 +44,28 @@
       <span style="color: #ff5f56; font-size: 14px;">●</span>&nbsp;
       <span style="color: #ffbd2e; font-size: 14px;">●</span>&nbsp;
       <span style="color: #27c93f; font-size: 14px;">●</span>&nbsp;&nbsp;
-      <code><b>ducnguyen@fintech-system: ~/profile (bash)</b></code>
+      <code><b>ducnguyen@fintech-node: ~/profile (zsh)</b></code>
     </td>
   </tr>
   <tr>
-    <!-- CỘT TRÁI: DỮ LIỆU TÀI CHÍNH & CÔNG NGHỆ -->
     <td width="65%" valign="top" style="padding: 16px; background: #0d1117;">
 
 ```yaml
-# ─── IDENTITY & EDUCATION ───────────────────────────────
-Name: "Nguyễn Đức Nguyên"
-Major: "Công nghệ Tài chính (FinTech)"
-Github: "@ducnguyen20806-rgb"
+# ─── IDENTITY & CREDENTIALS ──────────────────────────────
+Identity: "Nguyễn Đức Nguyên (DucNguyen.FT)"
+Role: "FinTech Developer & Data Engineer"
+Academic: "Công nghệ Tài chính (Financial Technology)"
+GitHub_Node: "@ducnguyen20806-rgb"
 
-# ─── CORE COMPETENCIES ──────────────────────────────────
-Financial_Quant:
+# ─── DOMAIN SPECIALIZATIONS ──────────────────────────────
+Quantitative_Finance:
   - "Tài chính Định lượng (Quant) & Quản trị Rủi ro"
-  - "Phân tích Thị trường & Quản lý Dòng tiền"
-Engineering_Data:
+  - "Phân tích Thị trường Vốn & Quản lý Dòng tiền"
+Engineering_Pipelines:
   - "Phát triển Web/App & Dashboard Tương tác"
-  - "Tự động hóa Đường ống Dữ liệu (Automation)"
-  - "Khai phá Dữ liệu Tài chính (Data Mining)"
+  - "Tự động hóa Thu thập Dữ liệu (ETL Data Pipelines)"
+  - "Khai phá & Mô hình hóa Dữ liệu (Data Mining)"
 
-# ─── TECH STACK & WEAPONS ──────────────────────────────
-Weapons: [ Python, Pandas, Streamlit, FastAPI, Git ]
-
-# ─── MISSION ───────────────────────────────────────────
-Current_Sprint: "Nghiên cứu & phát triển giải pháp FinTech thế hệ mới 🚀"
-Contact: "ducnguyen20806@gmail.com"
+# ─── CURRENT SPRINT ──────────────────────────────────────
+Status: "Nghiên cứu & phát triển giải pháp FinTech thế hệ mới 🚀"
+Contact_Endpoint: "ducnguyen20806@gmail.com"
