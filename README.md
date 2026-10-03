@@ -1,82 +1,73 @@
-<!-- HEADER BANNER LED NEON -->
+<!-- HEADER BANNER GALAXY / SPACE -->
 <p align="center">
   <a href="https://github.com/ducnguyen20806-rgb">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=200&section=header&text=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Nguy%C3%AAn&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Financial%20Technology%20%7C%20AI%20%26%20Data&descSize=18&descAlignY=70" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050814,50:0B1021,100:161B33&height=260&section=header&text=Hi%20Alien!%20%F0%9F%90%BD&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=I'm%20Nguy%E1%BB%85n%20%C4%90%E1%BB%A3c%20Nguy%C3%AAn%20from%20the%20Earth.&descSize=22&descAlignY=58&descColor=E6EDF3&animation=twinkling" width="100%" alt="Header Space Banner" />
   </a>
 </p>
 
-<!-- TYPING EFFECT SUBTITLE -->
+<!-- TECH ICONS DISPLAY -->
 <p align="center">
-  <a href="https://github.com/ducnguyen20806-rgb">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=50&lines=FinTech+Student+%40+HUIT;Building+AI+%26+Financial+Models;Market+Data+Analytics+%26+Automation" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=python,js,postgres,git,github,vscode" alt="My Tech Icons" />
+</p>
+
+<br />
+
+<!-- TECHNOLOGIES AND TOOLS -->
+<h3 align="center">🛠️ Technologies and Tools 🛠️</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+<br />
+
+<!-- FEATURED FINTECH PROJECTS -->
+<h3 align="center">📌 Featured Projects 📌</h3>
+
+| Project Name | Domain & Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Trí tuệ nhân tạo - Đầu tư tài chính](https://github.com/ducnguyen20806-rgb)** | Mô hình định giá, phân tích báo cáo tài chính & rủi ro bằng AI. | `Python` `AI` `Analytics` |
+| **[FLOWSCOPE-VN](https://github.com/ducnguyen20806-rgb/FLOWSCOPE-VN)** | Bản đồ nhiệt (Heatmap) thị trường chứng khoán Việt Nam. | `Python` `Data Viz` |
+| **[VietStock-Insight](https://github.com/ducnguyen20806-rgb/VietStock-Insight)** | Hệ thống cào dữ liệu và phân tích cổ phiếu Việt Nam. | `Python` `Web Scraping` |
+| **[CashPulse-VN](https://github.com/ducnguyen20806-rgb/CashPulse-VN)** | Quản trị dòng tiền & tài chính thông minh. | `Python` `Financial Modeling` |
+| **[VeriFinZ](https://github.com/ducnguyen20806-rgb/VeriFinZ)** | Xác thực & phân tích dữ liệu tài chính. | `JavaScript` `Web App` |
+
+<br />
+
+<!-- GITHUB STATS -->
+<h3 align="center">🔥 GitHub Stats 🔥</h3>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducnguyen20806-rgb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  &nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ducnguyen20806-rgb&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<br />
+
+<!-- WHERE TO FIND ME / CONNECT -->
+<h3 align="center">👽 Where to find me 👽</h3>
+
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-### 🎓 About Me
-
-- 🎓 **Major:** Financial Technology (FinTech)
-- 🚀 **Focus:** Building AI-driven financial models, stock market data analytics, and cash flow management applications.
-- 💡 **Passions:** Financial Data Analysis, Algorithmic Trading, Corporate Valuation, and Automation.
-- 📬 **Contact:** [Email](mailto:your-email@gmail.com) | [LinkedIn](https://linkedin.com)
-
----
-
-### 🛠️️ Tech Stack & Financial Domain
-
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Programming & Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **FinTech & Analytics** | `Financial Modeling` · `Valuation Models` · `Market Data Mining` · `Risk Management` · `Cash Flow Analytics` |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-
----
-
-### 📌 Featured FinTech Projects
-
-#### 1. 🤖 Trí tuệ nhân tạo - Đầu tư tài chính
-> *Tài khoản phân tích chính và thông tin đầu tiên, kết hợp trường dữ liệu, tài chính phân tích báo cáo, mô hình định giá, quản lý rủi ro và trí tuệ nhân tạo để hỗ trợ nhà cung cấp quyết định đầu tư.*
-- **Tech Stack:** Python, AI Models, Financial Analytics.
-- [🔗 Xem Repository](https://github.com/ducnguyen20806-rgb)
-
-#### 2. 🗺️ FLOWSCOPE-VN — Bản đồ nhiệt thị trường chứng khoán Việt Nam
-> *Hệ thống trực quan hóa bản đồ nhiệt (Heatmap) theo dõi diễn biến và dòng tiền thị trường chứng khoán Việt Nam.*
-- **Tech Stack:** Python, Data Visualization, Market Data.
-- [🔗 Xem Repository](https://github.com/ducnguyen20806-rgb/FLOWSCOPE-VN)
-
-#### 3. 📉 VietStock-Insight — Dữ liệu thị trường cổ phiếu Việt Nam
-> *Hệ thống khai thác và phân tích dữ liệu thị trường cổ phiếu Việt Nam.*
-- **Tech Stack:** Python, Financial Data Extraction.
-- [🔗 Xem Repository](https://github.com/ducnguyen20806-rgb/VietStock-Insight)
-
-#### 4. 💳 CashPulse-VN — Nền tảng quản trị dòng tiền & Tài chính thông minh
-> *Ứng dụng quản trị dòng tiền và tối ưu hóa kế hoạch tài chính cá nhân / doanh nghiệp nhỏ.*
-- **Tech Stack:** Python, Financial Analytics.
-- [🔗 Xem Repository](https://github.com/ducnguyen20806-rgb/CashPulse-VN)
-
-#### 5. 🛡️ VeriFinZ
-> *Giải pháp công nghệ xác thực và phân tích dữ liệu tài chính.*
-- **Tech Stack:** JavaScript, Web Applications.
-- [🔗 Xem Repository](https://github.com/ducnguyen20806-rgb/VeriFinZ)
-
----
-
-### 🎮 Other Projects
-
-- 🕹️ **[Flappy-Bird-](https://github.com/ducnguyen20806-rgb/Flappy-Bird-)**: Game giải trí phát triển bằng Python (Pygame).
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ducnguyen20806-rgb&show_icons=true&theme=tokyonight&count_private=true" alt="Duc Nguyen's GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducnguyen20806-rgb&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <i>"Combining Finance and Technology to build accessible, smart financial solutions."</i>
+  &nbsp;
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ducnguyen20806-rgb">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
