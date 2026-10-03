@@ -1,49 +1,41 @@
-<p align="center">
-  <img src="./robot-header.jpg" width="100%" alt="AI Robot Tech Header" />
-</p>
+<!-- HEADER BANNER / ẢNH CHILL CÔNG NGHỆ -->
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Tech Chill Banner" width="100%" style="border-radius: 12px; object-fit: cover; max-height: 280px;" />
 
-<h1 align="center">Hi 👋, I'm Nguyễn Đức Nguyên</h1>
+  <br/><br/>
 
-## 💫 About Me:
+  <!-- HIỆU ỨNG GREETING / HEADER -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Xin+ch%C3%A0o!+%F0%9F%91%8B;T%C3%B4i+l%C3%A0+Nguy%E1%BB%85n+%C4%90%E1%BB%A9c+Nguy%C3%AAn+%E2%9C%A8;FinTech+%26+Financial+Technology+%F0%9F%92%BC" alt="Typing SVG" />
+  </a>
 
-- 🎓 **Chuyên ngành Công nghệ Tài chính (FinTech)**
-- 💬 Ask me about **Python, Pandas, Web Scraping (Selenium), and Financial Statement Analysis**.
-- ⚡ Fun fact **I love building Web/App & smart algorithms to automate financial decision-making!**
+  <p align="center">
+    <i>"Công nghệ định hình tài chính — Dữ liệu dẫn lối tương lai."</i>
+  </p>
 
-## 🌐 Socials:
+  <!-- SOCIAL BADGES (Thay link của bạn vào đây) -->
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:YOUR_EMAIL@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://facebook.com/YOUR_FB" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+  </p>
+</div>
 
-<p align="left">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ducnguyen20806-rgb"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<hr/>
 
-## 💻 Tech Stack:
+### 👨‍💻 Về tôi (About Me)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-## 📊 GitHub Stats:
-
-<p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ducnguyen20806-rgb&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ducnguyen20806-rgb&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducnguyen20806-rgb&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+```yaml
+name: Nguyễn Đức Nguyên
+field: Financial Technology (FinTech / Công nghệ tài chính)
+interests:
+  - Phân tích dữ liệu tài chính (Financial Data Analysis)
+  - Thuật toán giao dịch & Định lượng (Quant & Algo Trading)
+  - Hệ thống thanh toán số & Blockchain
+status: "Đang học hỏi và xây dựng các dự án công nghệ tài chính 🚀"
