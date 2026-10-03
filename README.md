@@ -1,41 +1,53 @@
-<!-- HEADER BANNER / ẢNH CHILL CÔNG NGHỆ -->
+<!-- ================= HEADER HERO BANNER ================= -->
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Tech Chill Banner" width="100%" style="border-radius: 12px; object-fit: cover; max-height: 280px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=220&section=header&text=NGUYEN%20DUC%20NGUYEN&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FINANCIAL%20TECHNOLOGY%20%7C%20DATA-DRIVEN%20INSIGHTS&descSize=14&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+</div>
 
-  <br/><br/>
-
-  <!-- HIỆU ỨNG GREETING / HEADER -->
+<!-- ================= TYPING DYNAMIC GREETING ================= -->
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Xin+ch%C3%A0o!+%F0%9F%91%8B;T%C3%B4i+l%C3%A0+Nguy%E1%BB%85n+%C4%90%E1%BB%A9c+Nguy%C3%AAn+%E2%9C%A8;FinTech+%26+Financial+Technology+%F0%9F%92%BC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=620&lines=%E2%8B%84+Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+Nguy%E1%BB%85n+%C4%90%E1%BB%A9c+Nguy%C3%AAn;%E2%8B%84+Chuy%C3%AAn+ng%C3%A0nh%3A+C%C3%B4ng+ngh%E1%BB%87+T%C3%A0i+ch%C3%ADnh+(FinTech);%E2%8B%84+Building+Data-Driven+%26+Algorithmic+Solutions" alt="Typing SVG" />
   </a>
 
+  <br/>
+  
   <p align="center">
-    <i>"Công nghệ định hình tài chính — Dữ liệu dẫn lối tương lai."</i>
+    <samp>
+      ⚡ <b>ARCHITECTING THE FUTURE OF FINANCE THROUGH CODE & ALGORITHMS</b> ⚡
+    </samp>
   </p>
 
-  <!-- SOCIAL BADGES (Thay link của bạn vào đây) -->
+  <!-- LUXURY MONOCHROME / ACCENT SOCIALS -->
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://github.com/ducnguyen20806-rgb" target="_blank">
+      <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F2FE" />
     </a>
-    <a href="mailto:YOUR_EMAIL@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    &nbsp;
+    <a href="mailto:ducnguyen20806@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00F2FE" />
     </a>
-    <a href="https://facebook.com/YOUR_FB" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    &nbsp;
+    <a href="https://github.com/ducnguyen20806-rgb">
+      <img src="https://img.shields.io/badge/FINTECH_CORE-ONLINE-00F2FE?style=for-the-badge&logoColor=000000" />
     </a>
   </p>
 </div>
 
-<hr/>
+<br/>
 
-### 👨‍💻 Về tôi (About Me)
+<!-- ================= QUANT TERMINAL / ABOUT ME ================= -->
+<table width="100%">
+<tr>
+<td>
 
-```yaml
-name: Nguyễn Đức Nguyên
-field: Financial Technology (FinTech / Công nghệ tài chính)
-interests:
-  - Phân tích dữ liệu tài chính (Financial Data Analysis)
-  - Thuật toán giao dịch & Định lượng (Quant & Algo Trading)
-  - Hệ thống thanh toán số & Blockchain
-status: "Đang học hỏi và xây dựng các dự án công nghệ tài chính 🚀"
+### 🌐 SYSTEM PROFILE: `ABOUT_ME.SYS`
+
+```bash
+[SYSTEM INITIALIZATION] ................................ [OK]
+┌── [USER_SESSION]
+│   ├─ IDENTITY    : Nguyễn Đức Nguyên
+│   ├─ GITHUB_ID   : ducnguyen20806-rgb
+│   ├─ DOMAIN      : Financial Technology (FinTech / Công nghệ tài chính)
+│   ├─ FOCUS_AREAS : Quantitative Finance | Market Analytics | Algorithmic Systems
+│   └─ STATUS      : Researching, Backtesting & Architecting Next-Gen Solutions
+└── [CORE DIRECTIVE] : "Biến dữ liệu thị trường phức tạp thành chiến lược chính xác."
