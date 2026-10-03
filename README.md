@@ -41,31 +41,41 @@
 
 ---
 
-<!-- ================= ABOUT ME (2 CỘT: NỘI DUNG & AVATAR 3D) ================= -->
-### About Me. 👨‍💻
-
-<table border="0" width="100%">
+<!-- ================= ABOUT ME (HIGH-TECH CYBER TERMINAL) ================= -->
+<table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="72%" valign="top">
-      <ul>
-        <li>🎓 <b>Chuyên ngành:</b> Sinh viên ngành <b>Công nghệ Tài chính (FinTech)</b>.</li>
-        <li>💻 <code>Code 👨‍💻 ➡️ Phân tích dữ liệu 📈 ➡️ Coffee ☕ ➡️ Repeat 🔁</code></li>
-        <li>📈 <b>Lĩnh vực Tài chính:</b> Tài chính Định lượng (Quant) | Quản trị Rủi ro | Phân tích Thị trường | Quản lý Dòng tiền.</li>
-        <li>🌐 <b>Lĩnh vực Công nghệ:</b> Phát triển Web/App | Tự động hóa Dữ liệu | Khai phá Dữ liệu (Data Mining).</li>
-        <li>🛠️ <b>Vũ khí & Công cụ:</b> <code>Python</code>, <code>Pandas</code>, <code>Streamlit</code>, <code>FastAPI</code>, <code>Git</code>.</li>
-        <li>🚀 <b>Dự án hiện tại:</b> Đang tập trung nghiên cứu & phát triển các giải pháp FinTech thế hệ mới.</li>
-        <li>📫 <b>Cách liên hệ với tôi:</b> <a href="mailto:ducnguyen20806@gmail.com">ducnguyen20806@gmail.com</a></li>
-      </ul>
-    </td>
-    <td width="28%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /><br/>
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150px" alt="Coding Avatar" />
+    <td colspan="2" style="background: #161b22; padding: 10px 16px; border-radius: 10px 10px 0 0;">
+      <span style="color: #ff5f56; font-size: 14px;">●</span>&nbsp;
+      <span style="color: #ffbd2e; font-size: 14px;">●</span>&nbsp;
+      <span style="color: #27c93f; font-size: 14px;">●</span>&nbsp;&nbsp;
+      <code><b>ducnguyen@fintech-system: ~/profile (bash)</b></code>
     </td>
   </tr>
-</table>
+  <tr>
+    <!-- CỘT TRÁI: DỮ LIỆU CÔNG NGHỆ & TÀI CHÍNH -->
+    <td width="65%" valign="top" style="padding: 18px; background: #0d1117;">
 
----
+```yaml
+# ─── IDENTITY & EDUCATION ───────────────────────────────
+Name: "Nguyễn Đức Nguyên"
+Major: "Công nghệ Tài chính (FinTech)"
+Github: "@ducnguyen20806-rgb"
 
+# ─── CORE COMPETENCIES ──────────────────────────────────
+Financial_Quant:
+  - "Tài chính Định lượng (Quant) & Quản trị Rủi ro"
+  - "Phân tích Thị trường & Quản lý Dòng tiền"
+Engineering_Data:
+  - "Phát triển Web/App & Dashboard Tương tác"
+  - "Tự động hóa Đường ống Dữ liệu (Automation)"
+  - "Khai phá Dữ liệu Tài chính (Data Mining)"
+
+# ─── TECH STACK & WEAPONS ──────────────────────────────
+Weapons: [ Python, Pandas, Streamlit, FastAPI, Git ]
+
+# ─── MISSION ───────────────────────────────────────────
+Current_Sprint: "Nghiên cứu & phát triển giải pháp FinTech thế hệ mới 🚀"
+Contact: "ducnguyen20806@gmail.com"
 <!-- ================= STATS DASHBOARD (4 KHỐI) ================= -->
 ### Stats 📊
 
