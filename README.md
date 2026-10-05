@@ -33,12 +33,12 @@
 
 ### 👨‍💻 Về tôi (About Me)
 
-> 🎓 **Chuyên ngành:** Sinh viên **Công nghệ Tài chính (FinTech)**  
-> 📈 **Tài chính & Định lượng:** Tài chính Định lượng (Quant) • Quản trị Rủi ro • Phân tích Thị trường • Quản lý Dòng tiền  
-> 💻 **Công nghệ & Dữ liệu:** Phát triển Web/App • Tự động hóa Dữ liệu (ETL) • Khai phá Dữ liệu (Data Mining)  
-> 🛠️ **Công cụ yêu thích:** `Python`, `Pandas`, `Streamlit`, `FastAPI`, `Git`  
-> 🚀 **Mục tiêu:** Nghiên cứu và xây dựng các giải pháp FinTech thế hệ mới  
-> 📫 **Liên hệ trực tiếp:** [ducnguyen20806@gmail.com](mailto:ducnguyen20806@gmail.com)
+> **Chuyên ngành:** Sinh viên **Công nghệ Tài chính (FinTech)**  
+> **Tài chính & Định lượng:** Tài chính Định lượng (Quant) • Quản trị Rủi ro • Phân tích Thị trường • Quản lý Dòng tiền  
+> **Công nghệ & Dữ liệu:** Phát triển Web/App • Tự động hóa Dữ liệu (ETL) • Khai phá Dữ liệu (Data Mining)  
+> **Công cụ yêu thích:** `Python`, `Pandas`, `Streamlit`, `FastAPI`, `Git`  
+> **Mục tiêu:** Nghiên cứu và xây dựng các giải pháp FinTech thế hệ mới  
+> **Liên hệ trực tiếp:** [ducnguyen20806@gmail.com](mailto:ducnguyen20806@gmail.com)
 
 ---
 
